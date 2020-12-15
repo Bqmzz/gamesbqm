@@ -1,0 +1,5 @@
+bam 100
+kuy 20
+mak 4
+na 1
+asad,2428
